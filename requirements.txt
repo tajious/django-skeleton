@@ -1,0 +1,6 @@
+Django==2.2.4
+django-debug-toolbar
+django-extensions
+django-widget-tweaks
+djangorestframework
+PyJWT
